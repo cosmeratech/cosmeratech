@@ -1,4 +1,4 @@
 ![](./FLY.png)
 
-# Bonjour, I’m Janvi
-I’m a Software Developer and AI researcher with a strong passion for innovation and problem-solving. My work primarily focuses on C++, Python, and their applications in artificial intelligence and machine learning.
+# Bonjour, Jéh here
+I’m a Software Developer and AI researcher. My work primarily focuses on C++, Python, and their applications in artificial intelligence and machine learning.
